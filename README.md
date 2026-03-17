@@ -25,7 +25,10 @@
 **CIRCUIT DIAGRAM:**
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f981a728-18dc-4af0-a093-ddbfbcedc600" />
 
+TABULATION:
+<img width="968" height="1494" alt="image" src="https://github.com/user-attachments/assets/f499a041-92a6-4082-9737-b0ad7f5a95ee" />
 
+<img width="1002" height="1600" alt="image" src="https://github.com/user-attachments/assets/158c3173-2a18-4ee5-96e9-f30c8f7de493" />
 
 
 
